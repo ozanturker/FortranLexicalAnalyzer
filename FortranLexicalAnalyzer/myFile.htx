@@ -1,0 +1,28 @@
+/* Any comment *text here */
+[red] This is normally [blue] This is normally written in red. 2[end_blue] written in red. 1[end_red]
+[blue] This is normally written in red. 2[end_blue]
+[red] This is normally written in red. 3[end_red]
+
+[H1| DenemeMetin 2.txt ]
+
+/* Any comment *text here */
+[red] This is normally [blue] This is normally written in red. 2[end_blue] written in red. 1[end_red]
+[blue] This is normally written in red. 2[end_blue]
+[red] This is normally written in red. 3[end_red]
+
+[H2| DenemeMetin 5.txt ]
+
+
+/* Any comment *text here */
+[red] This is normally [blue] This is normally written in red. 2[end_blue] written in red. 1[end_red]
+[blue] This is normally written in red. 2[end_blue]
+[red] This is normally written in red. 3[end_red]
+
+[H3| DenemeMetin.txt ]
+
+/* Any comment *text here */
+[red] This is normally [blue] This is normally written in red. 2[end_blue] written in red. 1[end_red]
+[blue] This is normally written in red. 2[end_blue]
+[red] This is normally written in red. 3[end_red]
+
+[H4| DenemeMetin 7.txt ]

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1464810771 source:c:\users\osman\documents\cbocks projects\projepl2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<unistd.h>
+	<dirent.h>
+	<conio.h>
+
+1465156936 source:e:\ege bilgisayar proje\programming languages\projepl2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<unistd.h>
+	<dirent.h>
+	<conio.h>
+
